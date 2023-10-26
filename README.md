@@ -192,7 +192,7 @@ Artificial intelligence and data science
   Lcd_string(&lcd," CYBER SECURITY");
 
   Lcd_cursor(&lcd, 1,0);
-  Lcd_string(&lcd," PAVITHRA  M");
+  Lcd_string(&lcd," RASIKA.M");
 ```
 
 
